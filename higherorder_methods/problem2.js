@@ -1,4 +1,4 @@
-function problem2(inventory) {
+sfunction problem2(inventory) {
   return inventory.reduce((_, car) => car);
 }
 
