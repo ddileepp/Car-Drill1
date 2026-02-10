@@ -8,3 +8,4 @@ function problem1(inventory) {
 }
 
 module.exports = problem1;
+
