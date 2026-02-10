@@ -6,3 +6,4 @@ function problem6(inventory) {
 
 module.exports = problem6;
 
+
