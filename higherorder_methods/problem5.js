@@ -3,3 +3,4 @@ function problem5(inventory, year) {
 }
 
 module.exports = problem5;
+
